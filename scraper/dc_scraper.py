@@ -1,0 +1,2 @@
+class DCScraper(object):
+    pass
